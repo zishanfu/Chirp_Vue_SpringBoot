@@ -8,9 +8,9 @@
 * Spring Security 4
 * Google SSO(OAuth 2.0)
     
-##Demo [http://fzschirp.herokuapp.com/]
+## Demo [http://fzschirp.herokuapp.com/]
 
-##Current work
+## Current work
 * Google SSO problem in heroku
 * Session limitation
 * User registration restriction
